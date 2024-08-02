@@ -1,58 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Paul Mizoule - Blockchain & Web3 Researcher</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 0;
-            padding: 0;
-            color: #333;
-        }
-        header {
-            background-color: #1a237e;
-            color: #fff;
-            text-align: center;
-            padding: 2rem;
-        }
-        main {
-            padding: 2rem;
-            max-width: 800px;
-            margin: 0 auto;
-        }
-        section {
-            margin-bottom: 2rem;
-        }
-        h1, h2, h3 {
-            color: #1a237e;
-        }
-        .project, .experience {
-            border: 1px solid #ddd;
-            padding: 1rem;
-            margin-bottom: 1rem;
-            border-radius: 5px;
-        }
-        .skills {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 10px;
-        }
-        .skill {
-            background-color: #e8eaf6;
-            padding: 5px 10px;
-            border-radius: 15px;
-            font-size: 0.9em;
-        }
-        .contact-info {
-            display: flex;
-            justify-content: space-between;
-            flex-wrap: wrap;
-        }
-    </style>
-</head>
 <body>
     <header>
         <h1>Paul Mizoule</h1>
